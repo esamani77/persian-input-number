@@ -81,8 +81,3 @@ export default {
   },
 };
 </script>
-<style scoped>
-.bg-danger {
-  background-color: red;
-}
-</style>
