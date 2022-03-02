@@ -1,6 +1,6 @@
 {
-  "name": "persian-input-number",
-  "version": "1.0.1",
+  "name": "@esamani77/persian-input-number",
+  "version": "1.0.3",
   "author": "esamani77",
   "scripts": {
     "dev": "vite",
@@ -29,5 +29,21 @@
     "webpack": "^5.69.1",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4"
-  }
+  },
+  "description": "This is a input that only accepts numbers You can type in persian and English language in this input and use all vue and nuxt features to use a input.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esamani77/persian-input-number.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esamani77/persian-input-number/issues"
+  },
+  "homepage": "https://github.com/esamani77/persian-input-number#readme",
+  "keywords": [
+    "persian",
+    "number",
+    "vue"
+  ]
 }
